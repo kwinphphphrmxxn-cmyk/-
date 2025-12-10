@@ -1,0 +1,15 @@
+{
+  "name": "truemoney-redeem-bot",
+  "version": "1.0.0",
+  "description": "TrueMoney Redeem Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.1.8",
+    "minimal-discord-webhook-node": "^1.0.4",
+    "meta-truemoney-api": "^1.0.0",
+    "chalk": "^4.1.2"
+  }
+}
